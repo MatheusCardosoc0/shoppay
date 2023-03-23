@@ -1,6 +1,9 @@
+@import './base.scss';
+
 *{
   margin: 0;
   box-sizing: border-box;
+  padding: 0;
   &:before,
   &:after{
     box-sizing: border-box;
